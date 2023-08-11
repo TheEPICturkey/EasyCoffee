@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    <h1>Paisa Coffee Inventory Manager</h1>
+    <h1>Easy Coffee Inventory Manager</h1>
   );
 }
 
