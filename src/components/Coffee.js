@@ -9,7 +9,9 @@ function Coffee(props) {
         <h3>Origin of Coffee: {props.origin}</h3>
         <h3>Number of Pounds Left in Current Sack: {props.beansLeft}</h3>
       </div>
-      <button onClick={()=> props.whenSellClicked(props.id) }>Sell a Pound?</button>
+      <div style={{ display: 'flex', justifyContent: 'center' }}>
+        <button onClick={()=> props.whenSellClicked(props.id) }>Sell a Pound</button>
+      </div>
     </React.Fragment>
   );
 }

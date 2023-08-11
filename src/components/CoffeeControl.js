@@ -113,8 +113,12 @@ class CoffeeControl extends React.Component {
     }
     return (
       <React.Fragment>
+        {/* {currentlyVisibleState}
+        <button onClick={this.handleClick}>{buttonText}</button> */}
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         {currentlyVisibleState}
         <button onClick={this.handleClick}>{buttonText}</button>
+      </div>
       </React.Fragment>
     );
   }

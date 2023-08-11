@@ -12,8 +12,8 @@ function CoffeeDetail(props) {
       <h3>Roast Type: {coffee.roast}</h3>
       <h3>Price per Pound in USD: {coffee.price}</h3>
       <h3>Number of Pounds Left in Current Sack: {coffee.beansLeft}</h3>
-      <button onClick={ props.onClickingEdit }>Edit Sack?</button>
-      <button onClick={()=> onClickingDelete(coffee.id) }>Delete Sack?</button>
+      <button onClick={ props.onClickingEdit }>Edit Sack</button>
+      <button onClick={()=> onClickingDelete(coffee.id) }>Delete Sack</button>
     </React.Fragment>
   );
 }
