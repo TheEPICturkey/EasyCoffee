@@ -2,7 +2,7 @@
 
 ### By Brandon Spear
 
-Created for Epicodus Code Review #12
+Created for Epicodus Code Review #12(?)
 
 ### Technologies Used
   * React
