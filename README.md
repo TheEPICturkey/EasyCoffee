@@ -1,4 +1,4 @@
-# PierresV2
+# EasyCoffee
 
 ### By Brandon Spear
 
@@ -9,7 +9,7 @@ Created for Epicodus Code Review #12(?)
   * CSS
 
 ### Description
-* inventory-tracker is an inventory tracking application for tracking coffee beans supply for a fictitious coffee shop.
+* EasyCoffee is an inventory tracking application for tracking coffee beans supply for a fictitious coffee shop.
 
 ### Application Instructions
 * NOTE: You will need a code editor to view or edit the code. My favorite, and recommended one is Visual Studio Code.
